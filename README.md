@@ -122,4 +122,4 @@ Full license: https://creativecommons.org/licenses/by/4.0/
 
 ---
 
-### If you found this project useful, consider leaving a ⭐ on GitHub.
+### DOI
