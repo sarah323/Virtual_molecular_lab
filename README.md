@@ -112,7 +112,13 @@ Faculty of Medicine, Alexandria University
 
 ## 📄 License
 
-This project is intended for educational purposes. Please contact the author before redistributing or modifying substantial portions of the work.
+This project is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** License.
+
+You are free to use, share, adapt, and build upon this work, provided appropriate credit is given to the original author.
+
+© 2026 Sarah Salah
+
+Full license: https://creativecommons.org/licenses/by/4.0/
 
 ---
 
