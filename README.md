@@ -20,7 +20,7 @@ An interactive, single‑file educational web application that simulates molecul
 
 ## 🚀 Live Demo
 
-The lab is hosted on **GitHub Pages** and can be accessed at:
+The lab is hosted on **GitHub Pages** and can be accessed at: https://sarah323.github.io/Virtual_molecular_lab/
 ## 📋 How to Use
 
 1. **Home page** – Choose a module.
