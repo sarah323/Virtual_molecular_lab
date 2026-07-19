@@ -1,10 +1,9 @@
-# 🧬 Virtual Molecular Diagnostics Laboratory
 
 # 🧬 Virtual Molecular Diagnostics Laboratory
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21444065.svg)](https://doi.org/10.5281/zenodo.21444065)
 
-An interactive educational web application designed to teach fundamental molecular diagnostic techniques to first-year medical students. The laboratory simulates real-world interpretation of DNA analysis using an engaging, case-based learning approach. Built entirely with vanilla HTML, CSS, and JavaScript as a single-file application.
+An interactive educational web application designed to teach fundamental molecular diagnostic techniques to first-year medical students. The laboratory simulates real-world interpretation of DNA analysis using an engaging, case-based learning approach. Built entirely with vanilla HTML, CSS, and JavaScript as a single-file application.](https://orcid.org/0009-0001-7198-0515)
 
 ---
 
@@ -127,7 +126,7 @@ Full license: https://creativecommons.org/licenses/by/4.0/
 ---
 
 ---
-
+[
 ## 📖 Citation
 
 If you use this virtual laboratory in teaching, research, or publications, please cite:
@@ -135,3 +134,4 @@ If you use this virtual laboratory in teaching, research, or publications, pleas
 > Salah, S. (2026). *Virtual Molecular Diagnostics Laboratory* (Version 1.0.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.21444065
 
 **DOI:** https://doi.org/10.5281/zenodo.21444065
+](https://orcid.org/0009-0001-7198-0515)
